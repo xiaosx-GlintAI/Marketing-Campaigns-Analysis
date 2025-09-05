@@ -65,3 +65,27 @@ This analysis yielded several high-impact insights that can directly inform mark
   **Matplotlib**: For creating static, high-quality visualizations.
 
   **SciPy**: For conducting statistical significance testing (t-test).
+
+## 6. Analysis Report
+
+<img width="690" height="873" alt="image" src="https://github.com/user-attachments/assets/1a861d3c-1a0d-4cb2-a9e1-7fba1dec8c82" />
+
+<img width="689" height="594" alt="image" src="https://github.com/user-attachments/assets/f875019d-66b3-4449-934b-d60aa873f8a7" />
+
+<img width="674" height="792" alt="image" src="https://github.com/user-attachments/assets/d1b63227-697a-4c9e-befc-dcd3fe0b8cf3" />
+
+<img width="648" height="879" alt="image" src="https://github.com/user-attachments/assets/71a42a0c-ebce-48a0-b75e-fbe0ff3e448c" />
+
+<img width="658" height="532" alt="image" src="https://github.com/user-attachments/assets/230d024d-79a5-4c79-bf7e-7c1fc7d80395" />
+
+<img width="648" height="869" alt="image" src="https://github.com/user-attachments/assets/4f3afdc9-b0fb-4ba2-a427-19aecd41ae76" />
+
+<img width="646" height="408" alt="image" src="https://github.com/user-attachments/assets/8cabf0da-7e48-4e45-89d0-c18f513eb673" />
+
+
+
+
+
+
+
+
